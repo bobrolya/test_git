@@ -25,7 +25,7 @@
 			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.СоответствуетСудамЗарегистрированнымВРоссийскомМеждународномРеестреСудов" id="fc0fcc65-e080-48d6-97f1-a8a0ca3421f9"/>
 		</Metadata>
 		<Metadata name="Catalog.ПодразделенияОрганизаций.Form.ФормаЭлемента" id="49f4b2b5-13e3-4ec8-9762-1da7204ddeb7" configVersion="78daf3482cf95d202b3022e36cc0b9f6220c38d7"/>
-		<Metadata name="Catalog.ПодразделенияОрганизаций.Form.ФормаЭлемента.Form" id="49f4b2b5-13e3-4ec8-9762-1da7204ddeb7.0" configVersion="ea00dd821dd9c47327748273afeb872ec9f1665a"/>
+		<Metadata name="Catalog.ПодразделенияОрганизаций.Form.ФормаЭлемента.Form" id="49f4b2b5-13e3-4ec8-9762-1da7204ddeb7.0" configVersion="49257a00783a47c8590832e9f2bb01e0dc2e8152"/>
 		<Metadata name="Catalog.СпособыОтраженияЗарплатыВБухУчете" id="1b85f25e-3eba-4441-b80a-90060e924371" configVersion="6d3a7d7d14b646578393804be6feb5a00d737c42"/>
 		<Metadata name="Catalog.СтатьиФинансированияЗарплата" id="2d763a4b-a40d-454c-8678-309860721c90" configVersion="52b190e7a5f967230e15b7c00a72d1236754db3c"/>
 		<Metadata name="Catalog.ТерриториальныеУсловияПФР" id="8dfdc1ea-9227-4ce0-878a-c0dd405b811a" configVersion="5a68b5235f579d086abfde8921d688826a1ccc0e"/>
