@@ -1,7 +1,78 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
 	<ConfigVersions>
-		<Metadata name="Configuration.КЛ_Доработки" id="e07b7840-7e12-4638-a7dd-650fcba2ed30" configVersion="9aeed3529db74f19c41db4458c5e7080fcd0a55f"/>
+		<Metadata name="Catalog.ГрафикиРаботыСотрудников" id="d5dd61f7-0d35-453c-b667-8f5249a56e1f" configVersion="13a27908c5b452e6d01926df1d8096c880490cdf"/>
+		<Metadata name="Catalog.Организации" id="c6b797b0-e0ee-458a-a866-89fe127d2473" configVersion="6cff1187baac2527b4f7effb7aaffa7493c2553b">
+			<Metadata name="Catalog.Организации.Attribute.ЕстьОбособленныеПодразделения" id="b3dc1186-92e3-48e0-9e6b-19da1252a820"/>
+		</Metadata>
+		<Metadata name="Catalog.ПодразделенияОрганизаций" id="7758f348-f9ee-4c9e-93c3-4fd06bdff721" configVersion="af94d1145a6507607dfccc40c8d6d411b5c8a7a9">
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.КодОКВЭД2" id="009f42a0-215f-4bbf-86cc-2b57080d3bcb"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.КодОКВЭД" id="267f30af-4c04-4039-8d72-7f47a430e4ef"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.РайонныйКоэффициент" id="26989487-adf7-4dc8-b659-3cf5ad19f903"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.ОбособленноеПодразделение" id="45715068-e57b-4191-980f-901e7b967fbc"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.ДатаРасформирования" id="4cff55e0-9522-4203-88ff-3462fc407d9b"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.Расформировано" id="6186c58d-f694-4803-acfd-276a32ebd9cf"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.РайонныйКоэффициентРФ" id="701cffea-086a-4683-b6f5-2b16c9f8bc42"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.Сформировано" id="72c901be-d33c-420a-a82a-0aa53cc5d27a"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.ГрафикРаботыСотрудников" id="75fced17-5204-4546-8e18-52c6a0b8db74"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.НаименованиеОКВЭД2" id="a1495de4-2434-4399-9ed0-243620f0b348"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.КодОрганаФСГС" id="bce9809a-f353-41e6-8ec7-dcc0ef7490eb"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.ИмеетНомерТерриториальногоОрганаРосстата" id="c12dae15-106c-49ef-b589-d48c639a0b42"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.НомерТерриториальногоОрганаРосстата" id="c6580c9d-3787-4798-81c3-56dd9fb7e500"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.ПроцентСевернойНадбавки" id="d8071027-0ff1-4a28-9616-5fc3cc9b2aa6"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.НаименованиеОКВЭД" id="df4b4802-ddac-4b50-834f-2d761b297b94"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.ДатаСоздания" id="e5b5cc18-f2ee-418d-83ca-6183c9ecf33e"/>
+			<Metadata name="Catalog.ПодразделенияОрганизаций.Attribute.СоответствуетСудамЗарегистрированнымВРоссийскомМеждународномРеестреСудов" id="fc0fcc65-e080-48d6-97f1-a8a0ca3421f9"/>
+		</Metadata>
+		<Metadata name="Catalog.ПодразделенияОрганизаций.Form.ФормаЭлемента" id="49f4b2b5-13e3-4ec8-9762-1da7204ddeb7" configVersion="78daf3482cf95d202b3022e36cc0b9f6220c38d7"/>
+		<Metadata name="Catalog.ПодразделенияОрганизаций.Form.ФормаЭлемента.Form" id="49f4b2b5-13e3-4ec8-9762-1da7204ddeb7.0" configVersion="ea00dd821dd9c47327748273afeb872ec9f1665a"/>
+		<Metadata name="Catalog.СпособыОтраженияЗарплатыВБухУчете" id="1b85f25e-3eba-4441-b80a-90060e924371" configVersion="6d3a7d7d14b646578393804be6feb5a00d737c42"/>
+		<Metadata name="Catalog.СтатьиФинансированияЗарплата" id="2d763a4b-a40d-454c-8678-309860721c90" configVersion="52b190e7a5f967230e15b7c00a72d1236754db3c"/>
+		<Metadata name="Catalog.ТерриториальныеУсловияПФР" id="8dfdc1ea-9227-4ce0-878a-c0dd405b811a" configVersion="5a68b5235f579d086abfde8921d688826a1ccc0e"/>
+		<Metadata name="Configuration.КЛ_Доработки" id="e07b7840-7e12-4638-a7dd-650fcba2ed30" configVersion="929c4ddfed00640054fba3598c333066071a54ce"/>
+		<Metadata name="Constant.ИспользоватьНачислениеЗарплаты" id="bcad06f7-f8ba-460a-ab8b-243b1939074d" configVersion="eb1629e3ec3d57adaed3cbef5632d844f925d48b"/>
+		<Metadata name="Constant.ИспользоватьНесколькоОрганизаций" id="6172336a-edd3-44cf-a6ef-0b44c14ebfe7" configVersion="aa26f2ffca6a0ab0703502469a3cd2b487bafbbe"/>
+		<Metadata name="DefinedType.МестоВыплатыЗарплатыСотрудников" id="ee0b975f-828c-4309-afad-69c0030695ef" configVersion="f76341b09a75e9d2f0577ee8d8ad1b2b01c48622"/>
+		<Metadata name="Enum.ВидыМестВыплатыЗарплаты" id="65dcd1b2-3a7c-4a19-9fc7-3459964ee3d8" configVersion="220fd3c7394973ed71e5ae09bbf4dc8d9821296e">
+			<Metadata name="Enum.ВидыМестВыплатыЗарплаты.EnumValue.Касса" id="23b6b4f7-bb73-4b8b-a235-37215505c22a"/>
+			<Metadata name="Enum.ВидыМестВыплатыЗарплаты.EnumValue.ЗарплатныйПроект" id="92860df9-f495-44dd-952c-b17273eb871b"/>
+			<Metadata name="Enum.ВидыМестВыплатыЗарплаты.EnumValue.Раздатчик" id="ea81279b-eeaf-433e-9dc4-386c3ed26dc0"/>
+		</Metadata>
+		<Metadata name="Enum.ОтношениеКЕНВДЗатратНаЗарплату" id="8ef22e77-7995-4f76-b0b4-d50fd1a90bdf" configVersion="3c231913852e04c4f81f44f22de08a12968da3f4">
+			<Metadata name="Enum.ОтношениеКЕНВДЗатратНаЗарплату.EnumValue.НеЕНВД" id="09ccfe4b-7880-4089-8720-61534d1bff67"/>
+			<Metadata name="Enum.ОтношениеКЕНВДЗатратНаЗарплату.EnumValue.ЕНВД" id="de79e6f2-733d-4dcb-9ab4-321fbda7fce3"/>
+		</Metadata>
+		<Metadata name="Enum.РолиФизическихЛиц" id="196f502a-5450-4a6a-9785-7b58971e253b" configVersion="0e6c700bd6ccf55892d185926cc3613dde86d229">
+			<Metadata name="Enum.РолиФизическихЛиц.EnumValue.РаздатчикЗарплаты" id="e82104f1-8b70-4bc7-aa6b-fd2b839942bb"/>
+		</Metadata>
+		<Metadata name="FunctionalOption.ИспользоватьНачислениеЗарплаты" id="27e29481-bec3-44a4-be1e-a8f422637a48" configVersion="61827e74996d62a8e5744cc860462e87030f1d3b"/>
+		<Metadata name="FunctionalOption.ИспользоватьНесколькоОрганизацийЗарплатаКадрыРасширенная" id="e8c83fe3-055f-4170-b36a-cc931eec5489" configVersion="c8bf4852d3366ad2a49d1b805710d236c1b8c374"/>
+		<Metadata name="FunctionalOption.ИспользоватьОбособленныеПодразделения" id="3a06ffec-e884-4277-a780-b0482d5b8e20" configVersion="a2ebda30ad1f418ed1612e9f71175b723b93f2ba"/>
+		<Metadata name="FunctionalOption.ИспользоватьОбособленныеПодразделенияРасширенная" id="355f0a68-9cc3-4f4c-94e9-dc654c69c53a" configVersion="54a81c132f0391b83da5817051d92cb3ef9a8e23"/>
+		<Metadata name="FunctionalOption.ИспользоватьРасчетЗарплатыРасширенная" id="c625d647-85ed-43e1-a183-8d11fc535dd9" configVersion="70b35e5639c99bc12d5f8e2b44dd604f55c64a2c"/>
+		<Metadata name="FunctionalOption.ИспользоватьШтатноеРасписание" id="b9d82048-6bfc-497f-ba27-d249bc47b0e0" configVersion="d620cbb8104aa609602d2886bd5b2faec96a199b"/>
+		<Metadata name="InformationRegister.БухучетЗарплатыПодразделений" id="7d2acabb-e3b3-4df0-a15a-36c0cfa984fb" configVersion="5f13183cf6f7e622e1acab2e94b10737ad6ba184">
+			<Metadata name="InformationRegister.БухучетЗарплатыПодразделений.Resource.СпособОтраженияЗарплатыВБухучете" id="0950c831-d133-4ea6-871e-a01d16b0d4ef"/>
+			<Metadata name="InformationRegister.БухучетЗарплатыПодразделений.Resource.ОтношениеКЕНВД" id="15475f16-0c30-4c7a-b00b-ccd310754870"/>
+			<Metadata name="InformationRegister.БухучетЗарплатыПодразделений.Resource.ДоляРаспределения" id="d71d2411-4183-43ed-bb6f-60d44da5ca5f"/>
+			<Metadata name="InformationRegister.БухучетЗарплатыПодразделений.Resource.СтатьяФинансирования" id="dd8a093e-693e-4831-9f85-85aed5e84204"/>
+		</Metadata>
+		<Metadata name="InformationRegister.МестаВыплатыЗарплатыОрганизаций" id="56486a7f-d59d-42ad-b130-6eb180296fe7" configVersion="c33ebf7cc7a4de29fd0fa3a144061a30d33c19f5">
+			<Metadata name="InformationRegister.МестаВыплатыЗарплатыОрганизаций.Resource.МестоВыплаты" id="0cc691a2-5e21-4473-b1ab-91b803f85e03"/>
+			<Metadata name="InformationRegister.МестаВыплатыЗарплатыОрганизаций.Resource.Вид" id="b764cd1f-3950-4e3b-b2c8-46fa50039fb1"/>
+		</Metadata>
+		<Metadata name="InformationRegister.МестаВыплатыЗарплатыПодразделений" id="a04e8cf7-249c-4e85-befe-e91f077da3d6" configVersion="f32c6162c54c367dfbda278b44e6ae8d65bc1a3d">
+			<Metadata name="InformationRegister.МестаВыплатыЗарплатыПодразделений.Resource.МестоВыплаты" id="046178be-51a1-4ee2-92fe-c604d4010709"/>
+			<Metadata name="InformationRegister.МестаВыплатыЗарплатыПодразделений.Resource.Вид" id="7de81807-07e2-4813-b936-aefde16e49d2"/>
+		</Metadata>
+		<Metadata name="InformationRegister.НастройкиШтатногоРасписания" id="65039b67-b5fb-4d4b-8e2a-a57ce17a1df9" configVersion="d438fc75fd19ae2d61e8c65b680fb8c3cbd4ee12">
+			<Metadata name="InformationRegister.НастройкиШтатногоРасписания.Resource.ИспользоватьШтатноеРасписание" id="3e4c18b0-b25c-4b2e-a0cc-7b77f2d4a283"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ТерриториальныеУсловияПФР" id="f62aa2da-2991-4a72-9c3a-8ced216ef61a" configVersion="ebd425f50a528ba3f7eb108583964bee425530f6">
+			<Metadata name="InformationRegister.ТерриториальныеУсловияПФР.Resource.ТерриториальныеУсловияПФР" id="4cd8c466-73db-46a9-8a52-98bdbf8a5c67"/>
+		</Metadata>
 		<Metadata name="Language.Русский" id="316e2499-897a-4b20-88b6-e103ef749847" configVersion="2d872a05769fae23e00296672625d7f6f5746bcc"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="d2cca403-94d2-4151-874b-8790373880c5" configVersion="3a3775d23372f04eab036a69a132d42b815f6830"/>
+		<Metadata name="StyleItem.ТекстЗапрещеннойЯчейкиЦвет" id="1bdf287f-73e4-438b-9b36-e9dddab8cba5" configVersion="4e289e18c37001a69d6d7b004a0f9921b49e0cfc"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

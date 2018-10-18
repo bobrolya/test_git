@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
+	<Catalog uuid="8dfdc1ea-9227-4ce0-878a-c0dd405b811a">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ТерриториальныеУсловияПФР" category="Object">
+				<xr:TypeId>0aeb3580-a907-4a95-a3d9-d2a1575be668</xr:TypeId>
+				<xr:ValueId>29541d2f-3cda-4811-824a-2b71d5cedc28</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ТерриториальныеУсловияПФР" category="Ref">
+				<xr:TypeId>5587da3d-95a1-4433-8413-53fce67277be</xr:TypeId>
+				<xr:ValueId>be92cb7e-cedf-4c76-8f4f-3623d77fd58f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ТерриториальныеУсловияПФР" category="Selection">
+				<xr:TypeId>ddda1662-f915-4469-8d31-84b5de248537</xr:TypeId>
+				<xr:ValueId>2d292625-17ad-40b1-8dde-bb9774893074</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ТерриториальныеУсловияПФР" category="List">
+				<xr:TypeId>b8c05788-259d-41d4-aa6f-98a8af67b0c0</xr:TypeId>
+				<xr:ValueId>6b4ce528-d14e-427f-9262-e636d8497a23</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ТерриториальныеУсловияПФР" category="Manager">
+				<xr:TypeId>b84814d9-064d-4ae1-ac34-e240fe948ff1</xr:TypeId>
+				<xr:ValueId>f4898af1-8caa-48f8-8aa8-1a11c44bbf85</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТерриториальныеУсловияПФР</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

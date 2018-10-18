@@ -53,6 +53,31 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<StyleItem>ПоясняющийТекст</StyleItem>
+			<StyleItem>ТекстЗапрещеннойЯчейкиЦвет</StyleItem>
+			<FunctionalOption>ИспользоватьРасчетЗарплатыРасширенная</FunctionalOption>
+			<FunctionalOption>ИспользоватьОбособленныеПодразделенияРасширенная</FunctionalOption>
+			<FunctionalOption>ИспользоватьНачислениеЗарплаты</FunctionalOption>
+			<FunctionalOption>ИспользоватьОбособленныеПодразделения</FunctionalOption>
+			<FunctionalOption>ИспользоватьШтатноеРасписание</FunctionalOption>
+			<FunctionalOption>ИспользоватьНесколькоОрганизацийЗарплатаКадрыРасширенная</FunctionalOption>
+			<DefinedType>МестоВыплатыЗарплатыСотрудников</DefinedType>
+			<Constant>ИспользоватьНачислениеЗарплаты</Constant>
+			<Constant>ИспользоватьНесколькоОрганизаций</Constant>
+			<Catalog>ПодразделенияОрганизаций</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>ГрафикиРаботыСотрудников</Catalog>
+			<Catalog>ТерриториальныеУсловияПФР</Catalog>
+			<Catalog>СпособыОтраженияЗарплатыВБухУчете</Catalog>
+			<Catalog>СтатьиФинансированияЗарплата</Catalog>
+			<Enum>ОтношениеКЕНВДЗатратНаЗарплату</Enum>
+			<Enum>ВидыМестВыплатыЗарплаты</Enum>
+			<Enum>РолиФизическихЛиц</Enum>
+			<InformationRegister>НастройкиШтатногоРасписания</InformationRegister>
+			<InformationRegister>БухучетЗарплатыПодразделений</InformationRegister>
+			<InformationRegister>ТерриториальныеУсловияПФР</InformationRegister>
+			<InformationRegister>МестаВыплатыЗарплатыОрганизаций</InformationRegister>
+			<InformationRegister>МестаВыплатыЗарплатыПодразделений</InformationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

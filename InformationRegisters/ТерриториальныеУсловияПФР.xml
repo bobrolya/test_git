@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
+	<InformationRegister uuid="f62aa2da-2991-4a72-9c3a-8ced216ef61a">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.ТерриториальныеУсловияПФР" category="Record">
+				<xr:TypeId>a8f2156a-7a7e-45d7-808f-10dda3d7468d</xr:TypeId>
+				<xr:ValueId>bfc0e812-b5b6-41be-8422-5e74a41e1d31</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.ТерриториальныеУсловияПФР" category="Manager">
+				<xr:TypeId>67d06179-2d8d-4a70-90ea-8746e13dabe6</xr:TypeId>
+				<xr:ValueId>37f35dd0-07d8-40d8-ac9f-2c516be9cf90</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.ТерриториальныеУсловияПФР" category="Selection">
+				<xr:TypeId>50c3d82f-b510-4e8a-b119-422045e3b2ea</xr:TypeId>
+				<xr:ValueId>5f4e0445-f90f-4803-af24-8b442a8a7935</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.ТерриториальныеУсловияПФР" category="List">
+				<xr:TypeId>f806d745-fec1-47cb-9b54-45bd87ddd78a</xr:TypeId>
+				<xr:ValueId>83a0d692-4870-4c7c-8ff0-a115485f68d2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ТерриториальныеУсловияПФР" category="RecordSet">
+				<xr:TypeId>6ef26eb1-6137-4c21-94d2-26910d3a3d91</xr:TypeId>
+				<xr:ValueId>de67f60a-c671-4183-a777-e06e9aa014bb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ТерриториальныеУсловияПФР" category="RecordKey">
+				<xr:TypeId>70b1e9eb-9e14-4864-bf70-6024e2a712b4</xr:TypeId>
+				<xr:ValueId>c08a33d2-e913-45bd-a659-dc5bd50a291c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ТерриториальныеУсловияПФР" category="RecordManager">
+				<xr:TypeId>8a559e81-b1bb-492e-819d-55d3129d7de0</xr:TypeId>
+				<xr:ValueId>e903102e-01bb-4be7-989d-0a722df5d207</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ТерриториальныеУсловияПФР</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<InformationRegisterPeriodicity>Day</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="4cd8c466-73db-46a9-8a52-98bdbf8a5c67">
+				<Properties>
+					<Name>ТерриториальныеУсловияПФР</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ТерриториальныеУсловияПФР</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

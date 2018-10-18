@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
+	<Catalog uuid="d5dd61f7-0d35-453c-b667-8f5249a56e1f">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ГрафикиРаботыСотрудников" category="Object">
+				<xr:TypeId>2190249a-cf3d-4b49-b664-1e00e0e94083</xr:TypeId>
+				<xr:ValueId>a3f5c87d-aee3-47bf-98c7-eb169866c7c4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ГрафикиРаботыСотрудников" category="Ref">
+				<xr:TypeId>cb56b926-ae66-4feb-9761-77758a69dd4f</xr:TypeId>
+				<xr:ValueId>ddbe75f0-ed33-480d-96c0-039ad832f45b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ГрафикиРаботыСотрудников" category="Selection">
+				<xr:TypeId>5bc82ba4-8cbd-4b81-8bab-d7b19f78ceab</xr:TypeId>
+				<xr:ValueId>f68764e2-3c65-42c5-830b-f1ae92e3b2f9</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ГрафикиРаботыСотрудников" category="List">
+				<xr:TypeId>699dc2cb-46d0-46f0-a645-160dbd1fb2e7</xr:TypeId>
+				<xr:ValueId>6a326a2c-4f0b-403f-897e-c7c52e978171</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ГрафикиРаботыСотрудников" category="Manager">
+				<xr:TypeId>7320d72e-e68a-4f94-a6fc-bf5d9a111b0c</xr:TypeId>
+				<xr:ValueId>81441ae4-6db9-4dbb-b38e-79dbeba6edb3</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>ГрафикиРаботыСотрудников</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

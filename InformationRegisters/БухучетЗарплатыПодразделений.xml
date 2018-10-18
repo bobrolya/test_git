@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
+	<InformationRegister uuid="7d2acabb-e3b3-4df0-a15a-36c0cfa984fb">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.БухучетЗарплатыПодразделений" category="Record">
+				<xr:TypeId>fe39118f-7be4-4f29-b2e7-a2ef51f3cbc0</xr:TypeId>
+				<xr:ValueId>ddbf4bdf-a485-469f-99b7-13c238c0c0d6</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.БухучетЗарплатыПодразделений" category="Manager">
+				<xr:TypeId>07e49717-37ae-42a5-8ca6-f65bc1fd96f4</xr:TypeId>
+				<xr:ValueId>583da6d8-063d-4428-94e3-a173a4941a6c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.БухучетЗарплатыПодразделений" category="Selection">
+				<xr:TypeId>3f7c05b3-18a9-4b54-8dd2-d6627cdcb58a</xr:TypeId>
+				<xr:ValueId>6b7e0e7a-a24f-4364-aa26-0cae13b2f08f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.БухучетЗарплатыПодразделений" category="List">
+				<xr:TypeId>8ee9ac26-71c9-4239-b4d2-372f82105245</xr:TypeId>
+				<xr:ValueId>6603ea1f-a492-4e47-bd3b-38be7982ad03</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.БухучетЗарплатыПодразделений" category="RecordSet">
+				<xr:TypeId>20fa94f0-c451-4ffc-b7bd-decfacc89fa0</xr:TypeId>
+				<xr:ValueId>c5daf163-bd8e-4df0-9ac8-8d05433b7b1a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.БухучетЗарплатыПодразделений" category="RecordKey">
+				<xr:TypeId>06a7af67-ee81-41ad-b205-3314855141cd</xr:TypeId>
+				<xr:ValueId>ebe7c3f3-0ede-4c7b-b1ab-d8f8a27af805</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.БухучетЗарплатыПодразделений" category="RecordManager">
+				<xr:TypeId>a3ff835c-31f3-4859-843b-dda47b34f5af</xr:TypeId>
+				<xr:ValueId>2b92ec46-78da-4f9a-bb45-6591ae3c0328</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>БухучетЗарплатыПодразделений</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<InformationRegisterPeriodicity>Month</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="0950c831-d133-4ea6-871e-a01d16b0d4ef">
+				<Properties>
+					<Name>СпособОтраженияЗарплатыВБухучете</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.СпособыОтраженияЗарплатыВБухУчете</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="dd8a093e-693e-4831-9f85-85aed5e84204">
+				<Properties>
+					<Name>СтатьяФинансирования</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:CatalogRef.СтатьиФинансированияЗарплата</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="15475f16-0c30-4c7a-b00b-ccd310754870">
+				<Properties>
+					<Name>ОтношениеКЕНВД</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>cfg:EnumRef.ОтношениеКЕНВДЗатратНаЗарплату</v8:Type>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="d71d2411-4183-43ed-bb6f-60d44da5ca5f">
+				<Properties>
+					<Name>ДоляРаспределения</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>14</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

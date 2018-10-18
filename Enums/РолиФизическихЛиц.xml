@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.6">
+	<Enum uuid="196f502a-5450-4a6a-9785-7b58971e253b">
+		<InternalInfo>
+			<xr:GeneratedType name="EnumRef.РолиФизическихЛиц" category="Ref">
+				<xr:TypeId>59059210-3fc1-4fd3-8817-286971b54d6f</xr:TypeId>
+				<xr:ValueId>04b7e4bf-d714-4fad-a5d2-8267636acd74</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumManager.РолиФизическихЛиц" category="Manager">
+				<xr:TypeId>a1f20fc6-150a-4203-a24e-c6423d54e211</xr:TypeId>
+				<xr:ValueId>4f38a6c3-bc22-4fec-8ab7-55fee18ec679</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="EnumList.РолиФизическихЛиц" category="List">
+				<xr:TypeId>5c704151-f782-496f-be6e-4cc3f9741b1b</xr:TypeId>
+				<xr:ValueId>fb35d459-20af-4428-9d33-5e998dd9b316</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<Name>РолиФизическихЛиц</Name>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+		</Properties>
+		<ChildObjects>
+			<EnumValue uuid="e82104f1-8b70-4bc7-aa6b-fd2b839942bb">
+				<Properties>
+					<Name>РаздатчикЗарплаты</Name>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+				</Properties>
+			</EnumValue>
+		</ChildObjects>
+	</Enum>
+</MetaDataObject>
